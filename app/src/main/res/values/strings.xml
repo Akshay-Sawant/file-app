@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Upload Image</string>
+    <string name="text_error">Data Not found</string>
+</resources>
